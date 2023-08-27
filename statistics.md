@@ -1,5 +1,3 @@
-Statistics Topics for Data Science
-
 **Statistics Topics for Data Science & Machine Learning Lecture Notes**
 
 **1. Introduction:**
