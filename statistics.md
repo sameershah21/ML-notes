@@ -1,6 +1,3 @@
-Alright, here are the refined and summarized notes from the provided lecture transcript:
-
----
 
 ### **Introduction**
 - The lecture is about essential statistical topics for data science and machine learning.
