@@ -40,7 +40,7 @@
 ---
 
 **4. Detecting Model Drift in Production:**
-- The speaker plans to discuss statistical methods to detect model drift in the next video.
+-  Discuss statistical methods to detect model drift next time.
 - Emphasis on identifying drift almost in real-time, not after the availability of ground truth.
 
 ---
